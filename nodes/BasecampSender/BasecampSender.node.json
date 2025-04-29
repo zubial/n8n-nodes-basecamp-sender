@@ -1,0 +1,14 @@
+{
+	"node": "n8n-nodes-base.basecamp-sender",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Utility", "Core Nodes"],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://basecamp.com/"
+			}
+		]
+	},
+	"alias": ["Utility"]
+}
