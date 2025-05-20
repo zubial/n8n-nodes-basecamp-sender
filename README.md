@@ -6,7 +6,7 @@ This is a n8n community node.
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
 ## Key Features
-* Send message to MessageBoard
+* Send message to MessageBoard on Basecamp
 
 ## Installation
 
